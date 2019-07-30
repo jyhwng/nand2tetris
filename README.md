@@ -1,4 +1,6 @@
-# nand2tetris
+# The Elements of Computing Systems ([nand2tetris](https://www.nand2tetris.org/))
+
+> Building a general-purpose computer system from the ground up
 
 ### 1. Boolean Logic (WIP)
 
