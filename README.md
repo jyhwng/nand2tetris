@@ -2,8 +2,9 @@
 
 ### 1. Boolean Logic (WIP)
 
-- [ ] 1. Not gate
-- [ ] 2. And gate
+- [x] Not gate
+- [x] And gate
+- [x] Or gate
 
 ### 2. Boolean Arithmetic
 
