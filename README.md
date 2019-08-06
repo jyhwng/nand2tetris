@@ -7,6 +7,7 @@
 - [x] Not gate
 - [x] And gate
 - [x] Or gate
+- [x] Xor gate
 
 ### 2. Boolean Arithmetic
 
