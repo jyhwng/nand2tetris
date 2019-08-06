@@ -8,6 +8,8 @@
 - [x] And gate
 - [x] Or gate
 - [x] Xor gate
+- [ ] Mux
+- [ ] DMux
 
 ### 2. Boolean Arithmetic
 
@@ -25,8 +27,8 @@
 
 ### 9. High-Level Language
 
-### 10 Compiler I: Syntax Analysis
+### 10. Compiler I: Syntax Analysis
 
-### 11 Compiler II: Code Generation
+### 11. Compiler II: Code Generation
 
-### 12 Operating System
+### 12. Operating System
