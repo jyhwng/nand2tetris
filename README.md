@@ -8,7 +8,7 @@
 - [x] And gate
 - [x] Or gate
 - [x] Xor gate
-- [ ] Mux
+- [x] Mux
 - [ ] DMux
 
 ### 2. Boolean Arithmetic
