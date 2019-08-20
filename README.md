@@ -14,6 +14,11 @@
 
 ### 2. Boolean Arithmetic
 
+- [ ] Half-Adder
+- [ ] Full-Adder
+- [ ] Adder
+- [ ] Incrementer
+
 ### 3. Sequential Logic
 
 ### 4. Machine Language
