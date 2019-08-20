@@ -10,6 +10,7 @@
 - [x] Xor gate
 - [x] Mux
 - [x] DMux
+- [x] Not16, And16, Or16, Mux16
 
 ### 2. Boolean Arithmetic
 

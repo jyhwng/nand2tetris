@@ -12,10 +12,13 @@
 CHIP Mux {
     IN a, b, sel;
     OUT out;
-    // creating (bs + a's = 1), ('bs + 'a's = 0)
+    
     PARTS:
     Not(in=sel, out=x); // 's
     And(a=a, b=x, out=y);   // a's
     And(a=b, b=sel, out=z); // bs
     Or(a=z, b=y, out=out);  // bs + a's
 }
+
+// creating (bs + a's = 1), ('bs + 'a's = 0)
+// https://github.com/LearnTeachCode/nand2tetris/wiki/Mux-Gate
