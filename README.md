@@ -9,7 +9,7 @@
 - [x] Or gate
 - [x] Xor gate
 - [x] Mux
-- [ ] DMux
+- [x] DMux
 
 ### 2. Boolean Arithmetic
 
