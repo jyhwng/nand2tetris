@@ -14,7 +14,7 @@
 
 ### 2. Boolean Arithmetic
 
-- [ ] Half-Adder
+- [x] Half-Adder
 - [ ] Full-Adder
 - [ ] Adder
 - [ ] Incrementer
